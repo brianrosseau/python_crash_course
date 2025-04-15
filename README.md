@@ -7,7 +7,16 @@ I completed all of the exercises and two of the projects. This page is to displa
 
 The book is divided into two sections: Basics and Projects.
 
-Some of the things I learned in Basics includes Lists, If Statements, Dictionaries, User Input, While Loops, Functions, Classes, Files and Exceptions, and Testing your Code.
+Some of the things I learned in Basics includes:
+- Lists,
+- If Statements,
+- Dictionaries,
+- User Input,
+- While Loops,
+- Functions,
+- Classes,
+- Files and Exceptions, and
+- Testing your Code.
 
 Project 1 consisted of programming a game called Alien Invasion.
 
