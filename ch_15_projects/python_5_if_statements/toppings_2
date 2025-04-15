@@ -1,0 +1,13 @@
+requested_toppings = ['mushrooms', 'extra cheese']
+
+if 'mushrooms' in requested_toppings:
+    print("Addding mushrooms.")
+if 'pepperoni' in requested_toppings:
+    print("Adding pepperoni.")
+if 'extra cheese' in requested_toppings:
+    print("Adding extra cheese.")
+
+print("\nFinished making your pizza!")
+
+#As oppossed to an if-elif-else statement, which only executes one block of code
+#A series of if statements can execute multiple blocks of code.
