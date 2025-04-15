@@ -1,0 +1,701 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1736037326000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson",
+        "title": "USGS Magnitude 4.5+ Earthquakes, Past Day",
+        "status": 200,
+        "api": "1.14.1",
+        "count": 17
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "12 km ESE of Metahāra, Ethiopia",
+                "time": 1736031837221,
+                "updated": 1736034978040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000phwv",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000phwv.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 326,
+                "net": "us",
+                "code": "6000phwv",
+                "ids": ",us6000phwv,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": 36,
+                "dmin": 3.841,
+                "rms": 0.88,
+                "gap": 232,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 12 km ESE of Metahāra, Ethiopia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.0263,
+                    8.8597,
+                    10
+                ]
+            },
+            "id": "us6000phwv"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.3,
+                "place": "8 km E of Lakatoro, Vanuatu",
+                "time": 1736029416904,
+                "updated": 1736037095663,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000phws",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000phws.geojson",
+                "felt": 1,
+                "cdi": 2.2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 432,
+                "net": "us",
+                "code": "6000phws",
+                "ids": ",us6000phws,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": 63,
+                "dmin": 0.718,
+                "rms": 0.87,
+                "gap": 64,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.3 - 8 km E of Lakatoro, Vanuatu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4963,
+                    -16.1112,
+                    35
+                ]
+            },
+            "id": "us6000phws"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5,
+                "place": "31 km N of Āwash, Ethiopia",
+                "time": 1736021145465,
+                "updated": 1736033547341,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000phw1",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000phw1.geojson",
+                "felt": 20,
+                "cdi": 4.1,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 393,
+                "net": "us",
+                "code": "6000phw1",
+                "ids": ",us6000phw1,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": 104,
+                "dmin": 3.488,
+                "rms": 0.62,
+                "gap": 38,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 5.0 - 31 km N of Āwash, Ethiopia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.1391,
+                    9.2646,
+                    10
+                ]
+            },
+            "id": "us6000phw1"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.9,
+                "place": "52 km SSE of Metahāra, Ethiopia",
+                "time": 1736008604336,
+                "updated": 1736022281559,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000phvc",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000phvc.geojson",
+                "felt": 3,
+                "cdi": 2.2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 370,
+                "net": "us",
+                "code": "6000phvc",
+                "ids": ",us6000phvc,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": 112,
+                "dmin": 4.105,
+                "rms": 0.7,
+                "gap": 59,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 4.9 - 52 km SSE of Metahāra, Ethiopia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.0723,
+                    8.4481,
+                    10
+                ]
+            },
+            "id": "us6000phvc"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "27 km NNW of Āwash, Ethiopia",
+                "time": 1736004553729,
+                "updated": 1736015046435,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000phv2",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000phv2.geojson",
+                "felt": 2,
+                "cdi": 2.2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 326,
+                "net": "us",
+                "code": "6000phv2",
+                "ids": ",us6000phv2,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": 79,
+                "dmin": 3.569,
+                "rms": 0.68,
+                "gap": 105,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 27 km NNW of Āwash, Ethiopia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.0746,
+                    9.2132,
+                    10
+                ]
+            },
+            "id": "us6000phv2"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "17 km SE of Cibitoke, Burundi",
+                "time": 1736002310110,
+                "updated": 1736018911927,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000phuy",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000phuy.geojson",
+                "felt": 3,
+                "cdi": 4.7,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 313,
+                "net": "us",
+                "code": "6000phuy",
+                "ids": ",us6000phuy,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": 26,
+                "dmin": 8.234,
+                "rms": 0.77,
+                "gap": 128,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 17 km SE of Cibitoke, Burundi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2278,
+                    -3.0081,
+                    10
+                ]
+            },
+            "id": "us6000phuy"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "34 km S of La Libertad, El Salvador",
+                "time": 1736000676059,
+                "updated": 1736007503315,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000phuu",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000phuu.geojson",
+                "felt": 3,
+                "cdi": 3.8,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 313,
+                "net": "us",
+                "code": "6000phuu",
+                "ids": ",us6000phuu,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": 27,
+                "dmin": 0.615,
+                "rms": 0.91,
+                "gap": 142,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 34 km S of La Libertad, El Salvador"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2649,
+                    13.1843,
+                    67.73
+                ]
+            },
+            "id": "us6000phuu"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "120 km SE of Sarangani, Philippines",
+                "time": 1735999051302,
+                "updated": 1736005905040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000phut",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000phut.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "6000phut",
+                "ids": ",us6000phut,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": 25,
+                "dmin": 4.121,
+                "rms": 0.78,
+                "gap": 119,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 120 km SE of Sarangani, Philippines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.3654,
+                    4.7966,
+                    65.16
+                ]
+            },
+            "id": "us6000phut"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.7,
+                "place": "Kuril Islands",
+                "time": 1735988342708,
+                "updated": 1735989543040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000phud",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000phud.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 340,
+                "net": "us",
+                "code": "6000phud",
+                "ids": ",us6000phud,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": 44,
+                "dmin": 6.726,
+                "rms": 0.65,
+                "gap": 182,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.7 - Kuril Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.8666,
+                    45.4016,
+                    10
+                ]
+            },
+            "id": "us6000phud"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "206 km SSE of Amahai, Indonesia",
+                "time": 1735986438499,
+                "updated": 1735987623040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000phua",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000phua.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "6000phua",
+                "ids": ",us6000phua,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": 47,
+                "dmin": 0.69,
+                "rms": 0.56,
+                "gap": 84,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 206 km SSE of Amahai, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.5252,
+                    -5.1034,
+                    220.743
+                ]
+            },
+            "id": "us6000phua"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.7,
+                "place": "10 km E of Āwash, Ethiopia",
+                "time": 1735983632011,
+                "updated": 1736009724463,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000phu8",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000phu8.geojson",
+                "felt": 1,
+                "cdi": 4.6,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 340,
+                "net": "us",
+                "code": "6000phu8",
+                "ids": ",us6000phu8,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": 35,
+                "dmin": 3.599,
+                "rms": 0.57,
+                "gap": 109,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.7 - 10 km E of Āwash, Ethiopia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.2576,
+                    8.9724,
+                    10
+                ]
+            },
+            "id": "us6000phu8"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "13 km E of Sipí, Colombia",
+                "time": 1735978640920,
+                "updated": 1735997905806,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000phtp",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000phtp.geojson",
+                "felt": 2,
+                "cdi": 2.7,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 326,
+                "net": "us",
+                "code": "6000phtp",
+                "ids": ",us6000phtp,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": 72,
+                "dmin": 1.828,
+                "rms": 0.83,
+                "gap": 124,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 13 km E of Sipí, Colombia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5192,
+                    4.6409,
+                    10
+                ]
+            },
+            "id": "us6000phtp"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "42 km E of Sīrē, Ethiopia",
+                "time": 1735975579423,
+                "updated": 1735977861040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000phtm",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000phtm.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 326,
+                "net": "us",
+                "code": "6000phtm",
+                "ids": ",us6000phtm,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": 35,
+                "dmin": 4.292,
+                "rms": 0.53,
+                "gap": 152,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 42 km E of Sīrē, Ethiopia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.8644,
+                    8.3809,
+                    9.967
+                ]
+            },
+            "id": "us6000phtm"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.7,
+                "place": "17 km NW of Āwash, Ethiopia",
+                "time": 1735974022497,
+                "updated": 1735976261137,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000phtf",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000phtf.geojson",
+                "felt": 3,
+                "cdi": 3.4,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 341,
+                "net": "us",
+                "code": "6000phtf",
+                "ids": ",us6000phtf,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": 45,
+                "dmin": 3.682,
+                "rms": 0.85,
+                "gap": 116,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.7 - 17 km NW of Āwash, Ethiopia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.041,
+                    9.0789,
+                    10
+                ]
+            },
+            "id": "us6000phtf"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.9,
+                "place": "northern Mid-Atlantic Ridge",
+                "time": 1735970619287,
+                "updated": 1735971746040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000pht5",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000pht5.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 369,
+                "net": "us",
+                "code": "6000pht5",
+                "ids": ",us6000pht5,",
+                "sources": ",us,",
+                "types": ",moment-tensor,origin,phase-data,",
+                "nst": 53,
+                "dmin": 14.194,
+                "rms": 1.01,
+                "gap": 91,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 4.9 - northern Mid-Atlantic Ridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28.3852,
+                    49.5955,
+                    10
+                ]
+            },
+            "id": "us6000pht5"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "73 km NE of Broken Hill, Australia",
+                "time": 1735962655053,
+                "updated": 1735967864363,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000phse",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000phse.geojson",
+                "felt": 2,
+                "cdi": 2.7,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "6000phse",
+                "ids": ",us6000phse,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": 22,
+                "dmin": 0.509,
+                "rms": 0.86,
+                "gap": 71,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 73 km NE of Broken Hill, Australia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.0715,
+                    -31.5657,
+                    10
+                ]
+            },
+            "id": "us6000phse"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.7,
+                "place": "54 km N of Āwash, Ethiopia",
+                "time": 1735951941123,
+                "updated": 1736030197171,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000phrk",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000phrk.geojson",
+                "felt": 196,
+                "cdi": 8.1,
+                "mmi": 8.332,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 659,
+                "net": "us",
+                "code": "6000phrk",
+                "ids": ",us6000phrk,",
+                "sources": ",us,",
+                "types": ",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 111,
+                "dmin": 3.342,
+                "rms": 0.95,
+                "gap": 36,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.7 - 54 km N of Āwash, Ethiopia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.1535,
+                    9.4796,
+                    8
+                ]
+            },
+            "id": "us6000phrk"
+        }
+    ],
+    "bbox": [
+        -89.2649,
+        -31.5657,
+        8,
+        167.4963,
+        49.5955,
+        220.743
+    ]
+}
